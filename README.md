@@ -1,6 +1,6 @@
 # firebase_app
 
-A new Flutter project.
+An app that gives information about people's choice about coffee. This app is made using flutter and firebase.
 
 ## Getting Started
 
